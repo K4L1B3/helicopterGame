@@ -22,7 +22,7 @@
 
 # Features 
 
-- [X] Shoot to destroy enemies]
+- [X] Shoot to destroy enemies
 - [X] Move around the map
 - [X] soldier rescue
 - [X] Increase your points score
@@ -44,6 +44,8 @@ The following tools will be used in building the project:
 <br/>
 
 # Demonstration
+
+![helicopter](https://user-images.githubusercontent.com/45051690/155887527-53c281e2-0fdb-4396-8213-79bb3a0c58ec.gif)
 
 
  <br/>
